@@ -1,3 +1,3 @@
 # References
 
-- [Reference Name](https://example.com)
+- [Linear.app](https://linear.app)
