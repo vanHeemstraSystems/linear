@@ -1,12 +1,12 @@
-اسم المستودع
+خطي
 
-# اسم المستودع
+# خطي
 
 > سلوجلاين
 
 -   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [التوثيق](./DOCUMENTATION.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
