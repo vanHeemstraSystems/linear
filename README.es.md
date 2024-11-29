@@ -2,7 +2,7 @@ lineal
 
 # Lineal
 
-> línea de bala
+> Slugline
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
@@ -17,7 +17,7 @@ Texto
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requisitos
+## 200 - Requirements
 
 Ver[README.md](./200/README.md)
 
