@@ -1,6 +1,6 @@
-nom du référentiel
+linéaire
 
-# Nom du référentiel
+# Linéaire
 
 > Slugline
 
