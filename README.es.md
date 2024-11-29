@@ -1,6 +1,6 @@
-nombre-repositorio
+lineal
 
-# Nombre del repositorio
+# Lineal
 
 > línea de bala
 
